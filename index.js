@@ -13,7 +13,7 @@ app.get("/", (req,res)=>{
     let adv = "let's get it stay hard mother****ers!";
 
     if(day === 0 || day === 6){
-        type = "a weekend brother";
+        type = "a weekend";
         adv = "let's go boyz!";
     }
 
